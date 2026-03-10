@@ -1,9 +1,9 @@
 
 <p align="center">
-<img src="https://meteorclient.com/icon.png" alt="meteor-client-logo" width="15%"/>
+<img src="https://raw.githubusercontent.com/blueshed2533/shed-meteor/refs/heads/master/media/icon.png" alt="meteor-client-logo" width="15%"/>
 </p>
 
-<h1 align="center">Meteor</h1>
+<h1 align="center">Shed-Meteor</h1>
 <p align="center">A Minecraft Fabric Utility Mod for anarchy servers.</p>
 
 <div align="center">
